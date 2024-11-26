@@ -1,6 +1,6 @@
 #
 # Example file for working with loops
-# LinkedIn Learning Python course by Joe Marini
+# LinkedIn Learning Python course by Joe Marini modified by CE for  learning purposes!
 #
 
 
