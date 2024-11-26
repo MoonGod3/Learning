@@ -1,6 +1,6 @@
 #
 # Example file for working with classes
-# LinkedIn Learning Python course by Joe Marini
+# LinkedIn Learning Python course by Joe Marini edited by CE for learning purposes only!
 #
 
 class Vehicle(): ## base class is called Vehicle, has bodystyle property
