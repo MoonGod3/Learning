@@ -3,6 +3,15 @@
 # LinkedIn Learning Python course by Joe Marini modified by CE for learning purposes only!
 #
 
+# Why is this code below often added to a Python program file?
+
+# if __name__ == "__main__":
+#     main()
+
+
+# It allows us to skip calling the main() function by defining an environment variable.
+# It executes the main() function only if this file is executed as the main program.
+
 
 
 def main():
