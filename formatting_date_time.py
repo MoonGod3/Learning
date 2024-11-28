@@ -1,6 +1,6 @@
 #
 # Example file for formatting time and date output
-# LinkedIn Learning Python course by Joe Marini
+# LinkedIn Learning Python course by Joe Marini modified for learning purposes by CE
 #
 
 
