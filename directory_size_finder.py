@@ -1,5 +1,5 @@
 # Solution to programming challenge for Learning Python course
-# LinkedIn Learning Python course by Joe Marini
+# LinkedIn Learning Python course by Joe Marini modified by CE for learning purposes only!
 #
 
 import os
