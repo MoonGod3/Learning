@@ -1,6 +1,6 @@
 #
 # Example file for working with timedelta objects
-# LinkedIn Learning Python course by Joe Marini
+# LinkedIn Learning Python course by Joe Marini and modified for learning purposes only by CE
 #
 
 
